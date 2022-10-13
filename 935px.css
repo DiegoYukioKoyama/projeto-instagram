@@ -1,0 +1,18 @@
+@media (max-width: 935px) {
+  .container,
+  .caixa-stories,
+  .coluna-post,
+  .post,
+  .foto {
+    width: 100%;
+  }
+
+  .cabecalho {
+    padding-left: 20px;
+    padding-right: 19px;
+  }
+
+  .sidebar {
+    display: none;
+  }
+}
